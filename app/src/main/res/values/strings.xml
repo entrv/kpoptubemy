@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">kpoptubemy</string>
+    <string name="channel1">ibighit</string>
+    <string name="channel10">AllTheKpop</string>
+    <string name="channel11">Settings</string>
+    <string name="channel2">smtown</string>
+    <string name="channel3">1thek</string>
+    <string name="channel4">jypent</string>
+    <string name="channel5">mnet</string>
+    <string name="channel6">mbc</string>
+    <string name="channel7">kbs</string>
+    <string name="channel8">Stone Music</string>
+    <string name="channel9">ingigayo</string>
+    <string name="url10">https://www.youtube.com/user/imbcevery1/videos</string>
+    <string name="url11">Settings</string>
+    <string name="url2">https://www.youtube.com/user/SMTOWN/videos</string>
+    <string name="url3">https://www.youtube.com/user/LOENENT/videos</string>
+    <string name="url4">https://www.youtube.com/user/jypentertainment/videos</string>
+    <string name="url5">https://www.youtube.com/user/Mnet/videos</string>
+    <string name="url6">https://www.youtube.com/user/MBCkpop/videos</string>
+    <string name="url7">https://www.youtube.com/user/KBSKpop/videos</string>
+    <string name="url8">https://www.youtube.com/user/CJENMMUSIC/videos</string>
+    <string name="url9">https://www.youtube.com/user/SBSMusic1/videos</string>
+    <string name="url1">https://www.youtube.com/user/ibighit/videos</string>
+</resources>
